@@ -211,7 +211,7 @@ a {
 }
 
 a:hover {
-	border-bottom-color: transparent;
+	background-color: teal;
 	color: #32b9bd !important;
 }
 
