@@ -211,8 +211,7 @@ a {
 }
 
 a:hover {
-	background-color: teal;
-	color: #32b9bd !important;
+	background-color: #32b9bd !important;
 }
 
 strong,
